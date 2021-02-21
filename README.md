@@ -1,7 +1,7 @@
 # SPML (Special Program Modules Library) #
 
 ## 1. Brief ##
-<br/> Special Program Modules Library - Библиотека Специальных Программных Модулей
+<br/> Special Program Modules Library
 <br/>	- Geodetic problems on sphere and ellipsoid;
 <br/>	- Linear Assignment Problem (LAP) solving;
 <br/>	- Physical consts that are needed in library;
